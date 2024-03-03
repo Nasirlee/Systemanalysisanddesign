@@ -3,6 +3,8 @@ systemanalysisanddesign
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 the client was Drivepass, a company who provided An easy and streamlined way for new drivers to study for their test
 What did you do particularly well?
+
+----------------------------------------------
   when it came to formulating a plan of action and steps that we would take to reach our goal, implementing what the client was requesting, and communicating what kinds of limitations where involved.
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 i would adjust the visual graphis and make it more appealing for the client to read, it would make it easier for the client to follow along i fthe graphics were appealing.
